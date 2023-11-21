@@ -3,7 +3,6 @@
 //         .then(reg => console.log('service worker registered'))
 //         .catch(err => console.log('service worker not registered', err));
 // }
-console.log('app.js')
 let newWorker;
 
 let updatebar = document.getElementById('updatebar');
